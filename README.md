@@ -44,23 +44,23 @@ Overall, this database effectively mirrors the complexity of a football organiza
 
 ## Queries:
 
-### 1
+1
 
 __
-### 2
+2
 
 __
-### 3
+3
 
 __
-### 4
+4
 
 __
-### 5
+5
 
 
 ## Metabase Visualizations
 
-### (1st visual, based off of one of the queries)
-### (2nd visual, based off of another query)
-### (3rd visual, based off of a final query)
+1) (1st visual, based off of one of the queries)
+2) (2nd visual, based off of another query)
+3) (3rd visual, based off of a final query)
