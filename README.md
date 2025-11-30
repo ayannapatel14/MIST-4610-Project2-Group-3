@@ -34,6 +34,10 @@ Overall, this database effectively mirrors the complexity of a football organiza
 <img src="./DataModelProject2.png"/>
 
 ## Data Dictionary:
-<img src="./DataDictionaryNFLDBProject2.pdf"/>
-
+<img src="./DataDictionaryNFLDBProject21.png"/>
+<img src="./DataDictionaryNFLDBProject22.png"/>
+<img src="./DataDictionaryNFLDBProject23.png"/>
+<img src="./DataDictionaryNFLDBProject24.png"/>
+<img src="./DataDictionaryNFLDBProject25.png"/>
+<img src="./DataDictionaryNFLDBProject26.png"/>
 
