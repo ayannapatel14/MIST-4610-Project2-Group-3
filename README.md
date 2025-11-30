@@ -42,3 +42,25 @@ Overall, this database effectively mirrors the complexity of a football organiza
 <img src="./DataDictionaryNFLDBProject25.png"/>
 <img src="./DataDictionaryNFLDBProject26.png"/>
 
+## Queries:
+
+# 1
+
+__
+# 2
+
+__
+# 3
+
+__
+# 4
+
+__
+# 5
+
+
+## Metabase Visualizations
+
+# (1st visual, based off of one of the queries)
+# (2nd visual, based off of another query)
+# (3rd visual, based off of a final query)
