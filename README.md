@@ -53,7 +53,7 @@ __
 
 __
 
-3
+3 Shows which teams had scored more points compared to the division average. This helps coaches and the front office to see which teams have better offensive production in each season compared to the division average.
 
 __
 
