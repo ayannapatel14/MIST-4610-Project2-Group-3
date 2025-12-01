@@ -64,6 +64,7 @@ __
 
 
 ## Metabase Visualizations
+<img src="./Metabase - NFC South Metabase Visualizations.pdf"/>
 
 1) (1st visual, based off of one of the queries)
 2) (2nd visual, based off of another query)
