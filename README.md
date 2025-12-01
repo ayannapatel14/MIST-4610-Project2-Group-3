@@ -58,6 +58,7 @@ __
 __
 
 4
+<img src="./query4proj2.png"/>
 
 __
 
