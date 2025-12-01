@@ -43,7 +43,7 @@ Overall, this database effectively mirrors the complexity of a football organiza
 <img src="./DataDictionaryNFLDBProject26.png"/>
 
 ## Queries:
-
+<img src="./databaseInformation.png"/>
 1 Shows the average attendance figures of teams who scored more points in a season than the average aggregate points scorn from the 2022 to 2024 seasons (given by each combination of team and season). It can illustrate how being able to score points in a game may correlate to home attendance figures. 
 <img src="./query1proj2.png"/>
 __
