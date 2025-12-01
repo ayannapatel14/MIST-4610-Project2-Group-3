@@ -44,8 +44,8 @@ Overall, this database effectively mirrors the complexity of a football organiza
 
 ## Queries:
 
-1
-
+1 Shows the average attendance figures of teams who scored more points in a season than the average aggregate points scorn from the 2022 to 2024 seasons (given by each combination of team and season). It can illustrate how being able to score points in a game may correlate to home attendance figures. 
+<img src="./query1proj2.png"/>
 __
 
 2 Compares team performance statistics across two seasons (2022 and 2023). It's useful for analyzing how teams have improved or declined year-over-year by calculating statistics like point differential and fg percentage. This should be used in conjunction with attendance to see if higher offensive production contributed to attendance numbers. 
