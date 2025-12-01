@@ -32,7 +32,7 @@ Thus, the model contains two 1:M relationships. The reason for the one to many r
 
 Overall, this database effectively mirrors the complexity of a football organization. It allows for deep insights into performance trends, career timelines, staff movements, and fan engagement. With this relational model, queries can explore everything from historical coaching records to player statistics and stadium attendance, providing a powerful analytical foundation for understanding the operations of NFL teams in the NFC South.
 
-<img src="./DataModelProject2.png"/>
+<img src="./latestModel.png"/>
 
 ## Data Dictionary:
 <img src="./Page1Final.png"/>
