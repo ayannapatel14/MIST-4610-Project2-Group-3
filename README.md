@@ -57,13 +57,13 @@ __
 <img src="./query3proj2.png"/>
 __
 
-4
+4 Shows details about the coach, and how long they have worked for an NFC South team. This can help the front office decide on who to hire, especially if they are looking for someone experienced in the NFC South. 
 <img src="./query4proj2.png"/>
 
 __
 
-5
-
+5 Shows which players who have played at least one season in the NFC South from the 2022 to 2024 seasons have had the greatest offensive contributions in their careers. This helps the front office of a franchise know some of the best historic players to potentially sign as part of a marketing campaign, or to sign for their actual talents, especially if they want to get more media attention and attendance. 
+<img src="./query5proj2.png"/>
 
 ## Metabase Visualizations
 <img src="./MetabasePage1Proj2.png"/>
