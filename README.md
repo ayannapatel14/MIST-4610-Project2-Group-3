@@ -66,6 +66,7 @@ __
 ## Metabase Visualizations
 <img src="./MetabasePage1Proj2.png"/>
 <img src="./MetabasePage2Proj2.png"/>
+
 ### Total Home Points by Team + Season:
 Purpose: This bar chart separates the amount of home points a team have through each season from 2022 to 2024. 
 Relevance: Helps identify which seasons teams in the NFC South perform best offensively at home. This aids in knowing what leads to higher attendance figures, which in this case is whether greater offensive production leads to higher attendance figures. 
