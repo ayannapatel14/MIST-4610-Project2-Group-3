@@ -44,23 +44,28 @@ Overall, this database effectively mirrors the complexity of a football organiza
 
 ## Queries:
 <img src="./databaseInformation.png"/>
+
 1 Shows the average attendance figures of teams who scored more points in a season than the average aggregate points scorn from the 2022 to 2024 seasons (given by each combination of team and season). It can illustrate how being able to score points in a game may correlate to home attendance figures. 
 <img src="./query1proj2.png"/>
 __
+
 
 2 Compares team performance statistics across two seasons (2022 and 2023). It's useful for analyzing how teams have improved or declined year-over-year by calculating statistics like point differential and fg percentage. This should be used in conjunction with attendance to see if higher offensive production contributed to attendance numbers. 
 <img src="./query2proj2.png"/>
 
 __
 
+
 3 Shows which teams had scored more points compared to the division average. This helps coaches and the front office to see which teams have better offensive production in each season compared to the division average.
 <img src="./query3proj2.png"/>
 __
+
 
 4 Shows details about the coach, and how long they have worked for an NFC South team. This can help the front office decide on who to hire, especially if they are looking for someone experienced in the NFC South. 
 <img src="./query4proj2.png"/>
 
 __
+
 
 5 Shows which players who have played at least one season in the NFC South from the 2022 to 2024 seasons have had the greatest offensive contributions in their careers. This helps the front office of a franchise know some of the best historic players to potentially sign as part of a marketing campaign, or to sign for their actual talents, especially if they want to get more media attention and attendance. 
 <img src="./query5proj2.png"/>
