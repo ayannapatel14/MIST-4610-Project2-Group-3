@@ -74,14 +74,14 @@ __
 <img src="./MetabasePage1Proj2.png"/>
 <img src="./MetabasePage2Proj2.png"/>
 
-### Total Home Points by Team + Season:
+### 1) Total Home Points by Team + Season:
 Purpose: This bar chart separates the amount of home points a team have through each season from 2022 to 2024. 
 Relevance: Helps identify which seasons teams in the NFC South perform best offensively at home. This aids in knowing what leads to higher attendance figures, which in this case is whether greater offensive production leads to higher attendance figures. 
 
-### Average Game Attendance by Team + Season:
+### 2) Average Game Attendance by Team + Season:
 Purpose: This bar chart separates average home attendance figures through each season from 2022 to 2024.
 Relevance: It helps illustrate the home attendance figures based on season in the NFC South, aiding in decisions regarding whether certain marketing tactics lead to more home attendance figures, and how others NFC South franchises compare if one has insights to their strategies. 
   
-### Total Active Career Yards of WR + RB by Team:
+### 3) Total Active Career Yards of WR + RB by Team:
 Purpose: This bar chart illustrates the total active career yards of wide receivers and running backs by team. 
 Relevance: To illustrate the historical contribution of two key components of a team's offense, wide receivers and running backs. Since this bar chart illustrates a cumulative stat amongst active players, it illustrates more an emphasis on whether having a bunch of rookies or a larger emphasis on veterans leads to more offensive production for the next season. Teams can use this to target specific free agents, or potentially put a larger emphasis on defense or special teams. 
