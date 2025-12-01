@@ -48,7 +48,8 @@ Overall, this database effectively mirrors the complexity of a football organiza
 
 __
 
-2
+2 Compares team performance statistics across two seasons (2022 and 2023). It's useful for analyzing how teams have improved or declined year-over-year by calculating statistics like point differential and fg percentage. This should be used in conjunction with attendance to see if higher offensive production contributed to attendance numbers. 
+<img src="./query2proj2.png"/>
 
 __
 
